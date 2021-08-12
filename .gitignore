@@ -1,6 +1,9 @@
 # compiled output
 /dist
 /node_modules
+task-status-validation.pipe.ts
+tasks.controller1.ts
+tasks.service1.ts
 
 # Logs
 logs
